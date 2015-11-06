@@ -1,0 +1,23 @@
+name: URaffle
+favicon: null
+layout_spectrum: 0.39688625768758357
+typography_spectrum: 0.8006290257908404
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.7602833115961403
+  lightness: 0.4534504609182477
+  saturation: 0.5613169809803367
+  rhythmicContrast: 0.8830375778488815
+purpose: []
