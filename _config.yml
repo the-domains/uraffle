@@ -1,6 +1,6 @@
 name: URaffle
 favicon: null
-layout_spectrum: 0.91947
+layout_spectrum: 0.14088
 typography_spectrum: 0.68624
 title: U Raffle
 cta:
@@ -23,7 +23,7 @@ color:
     - '#181822'
     - '#c17ea1'
   brandStrength: 0.375
-  lightness: 0.375
-  saturation: 1
-  rhythmicContrast: 0.75
+  lightness: 0.1875
+  saturation: 0.75
+  rhythmicContrast: 0.5
 purpose: []
