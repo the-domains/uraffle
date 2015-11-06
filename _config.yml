@@ -2,6 +2,7 @@ name: URaffle
 favicon: null
 layout_spectrum: 0.39688625768758357
 typography_spectrum: 0.8006290257908404
+title: U Raffle
 cta:
   domain: null
   bucket: null
